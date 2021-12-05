@@ -1,0 +1,9 @@
+Phan Edward Aditya Kurniawan
+A11.2019.11683
+
+
+1. Cube -> Component = Transform, Cube(Mesh Filter), Mesh Renderer, Box Collider
+2. Sphere -> Component = Transform, Sphere(Mesh Filter), Mesh Renderer, Sphere Collider
+3. Capsule -> Component = Transform, Capsule(Mesh Filter), Mesh Renderer, CapsuleCollider
+4. Quad -> Component = Transform, Quad(Mesh Filter), Mesh Renderer, MeshCollider
+5. Plane -> Component = Transform, Plane(Mesh Filter), Mesh Renderer, MeshCollider
